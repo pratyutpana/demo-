@@ -1,3 +1,3 @@
 # demo-
-This is a demo project
+This is my first git repository.
 author - pratyutpana ray
